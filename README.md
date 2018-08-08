@@ -1,2 +1,2 @@
 # Tensorflow
-tensorflo code for Computer vision and NLP
+tensorflow code for Computer vision and NLP
